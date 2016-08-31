@@ -31,19 +31,6 @@ NSMutableDictionary *pageRelations;
     
     // 统计页面时长
     pageRelations = [[NSMutableDictionary alloc] initWithObjectsAndKeys:
-//                     @"首页工作台", @"GZSWorkspaceViewController",
-//                     @"客户页面", @"GZSCustomerViewController",
-//                     @"消息页面", @"GZSMessageViewController",
-//                     @"待联系列表页", @"GZSTaskViewController_0",
-//                     @"待看车列表页", @"GZSTaskViewController_2",
-//                     @"客户详情页", @"GZSCustomerDetailViewController",
-//                     @"车源查询页", @"GZSCarsQueryViewController",
-//                     @"完成看车",@"GZSDoneSeeCarController",
-//                     @"安排看车",@"GZSPlanSeeCarController",
-//                     @"不看车/取消看车",@"GZSCancelSeeCarController",
-//                     @"后续跟进",@"GZSFollowUpController",
-//                     @"更多推荐车源",@"GZSRecommendCarViewController",
-//                     @"意见反馈",@"GZSFeedbackController",
                      @"成交管理",@"GZSDealManageController",
                      nil];
 }

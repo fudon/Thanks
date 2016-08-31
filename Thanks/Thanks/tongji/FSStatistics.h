@@ -6,6 +6,12 @@
 //  Copyright © 2016年 guazi. All rights reserved.
 //
 
+/*
+ 1.添加友盟SDK方法：
+ 
+ 
+ */
+
 #import <Foundation/Foundation.h>
 #import "FSStatisticsKeys.h"
 
